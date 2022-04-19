@@ -7,6 +7,8 @@ font.init()
 
 score = 0
 
+#коментарий
+
 win_width = 700
 win_height = 500
 mw = display.set_mode((win_width, win_height))
